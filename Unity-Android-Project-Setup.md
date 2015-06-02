@@ -70,6 +70,10 @@ AdColony pluginの下のAndroidManifest.xmlを利用しないの場合、以下�
     &lt;/manifest&gt;
 </pre>
 
+####注意：GoogleのAdvertising IDを取得するため、プロジェクトの中にGoogle Play Services 4.0+ を追加してください。####
+Google Advertising ID はAdColony広告キャンペーンのほぼ全てにおいて必要とされるデバイス ID です。もし Google Advertising ID が有効でないと、`フィルレート`に影響が及ぶ可能性があります。  
+詳細についてはここをチェックをしてください:  
+http://developer.android.com/intl/ja/google/play-services/setup.html
 
 ##次のステップ##
 AdColony Unity pluginは、UnityのゲームやアプリでAdColonyを使用することができる方法を示すサンプルアプリケーションが含まれています。 [Showing Interstitial Videos](Showing-Interstitial-Videos.md)はinterstitial動画を再生する機能について説明します。 [Showing V4VC Videos](Showing-V4VC-Videos.md)はV4VCの使用方法について説明します。なお、[API Details](API-Details.md)は全てAPIを参照することができます。
