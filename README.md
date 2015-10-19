@@ -9,6 +9,11 @@ https://github.com/AdColony/AdColony-Unity-SDK
 ***
 AdColonyはアプリケーションのあらゆる場所にHD動画広告を配信することができます。動画を再生完了した時点でユーザに仮想通貨を付与するV4VC広告も提供しています。
 
+###iOS9###
+iOS9にて追加された新しい仕様の中に、本SDKの実装に影響を及ぼすものが存在します。  
+アプリをiOS9ターゲット(Xcode 7以降)でビルドするためには、  
+[iOS9実装手順](https://github.com/glossom-dev/AdColony-iOS-SDK-JP-Support/blob/master/iOS-9.md)に記載された手順に従った実装が必要となります。  
+
 ##実装ガイド##
 * Project Setup
   * [Unity and Xcode Project Setup](Unity-and-Xcode-Project-Setup.md)

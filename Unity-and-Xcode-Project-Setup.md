@@ -20,7 +20,7 @@ iOSプロジェクトを作る、生成されたXcodeプロジェクトを任意
  ![Architectures and Base SDK version](assets/architectures.png)
 
  **Target > Build Phases > Link Binary With Libraries**　に以下のライブラリとフレームワークを追加します。
-* `libz.1.2.5.dylib`
+* `libz.1.2.5.tbd`
 * `AdColony.framework`
 * `AdSupport.framework`  (Set to Optional)
 * `CoreTelephony.framework`
