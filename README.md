@@ -18,8 +18,8 @@ iOS9にて追加された新しい仕様の中に、本SDKの実装に影響を�
 * Project Setup
   * [Unity and Xcode Project Setup](Unity-and-Xcode-Project-Setup.md)
   * [Unity Android Project Setup](Unity-Android-Project-Setup.md)
-* [Showing Interstitial Videos](Showing-Interstitial-Videos.md)
 * [Showing V4VC Videos](Showing-V4VC-Videos.md)
+* [Showing Interstitial Videos](Showing-Interstitial-Videos.md)
 * [API Details](API-Details.md)
 * [Troubleshooting,-F.A.Q.,-and-Sample-Applications](Troubleshooting,-F.A.Q.,-and-Sample-Applications.md)
 * [よくある質問](QA.md)
